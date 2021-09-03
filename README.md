@@ -1,1 +1,3 @@
-# CSP-Mewtwo-FBX
+# CSP-Mewtwo
+
+To download, click on Mewtwo (Pokemon XY).csmo and click the download button
