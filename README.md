@@ -5,7 +5,7 @@ Pokemon Models for Clip Studio Paint
 > Click the `Clone` button and click `Download Zip` to download all the models
 ---
 
-Models downloaded from [TheModelResource](https://www.models-resource.com/).
+Models downloaded from [TheModelResource](https://www.models-resource.com/)
 
 Model rippers listed in the [Credits](https://github.com/Hectoris919/CSP-Pokemon-Models/blob/main/Pokemon%20XY/Credits.md) file
 
