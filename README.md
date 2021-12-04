@@ -10,4 +10,4 @@ Models downloaded from [TheModelResource](https://www.models-resource.com/). Mod
 
 Models formatted into the `csmc` (clip studio modeler character) format by Hectoris919
 
-Textures created/corrected by TC-96 ([Tumblr](https://xxtc-96xx.tumblr.com/), [DeviantArt](https://www.deviantart.com/tc-96), [Ko-Fi](https://ko-fi.com/tckofi))
+Textures created and corrected by **TC-96 ([Tumblr](https://xxtc-96xx.tumblr.com/), [DeviantArt](https://www.deviantart.com/tc-96), [Ko-Fi](https://ko-fi.com/tckofi))**
