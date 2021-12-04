@@ -13,5 +13,5 @@ Model rippers listed in the [Credits](https://github.com/Hectoris919/CSP-Pokemon
 
 Models imported into the `csmc` (clip studio modeler character) format by Hectoris919
 
-Textures created and corrected by **TC-96 ([Tumblr](https://xxtc-96xx.tumblr.com/), [DeviantArt](https://www.deviantart.com/tc-96), [Ko-Fi](https://ko-fi.com/tckofi))**
+Special thanks to TC-96 ([Tumblr](https://xxtc-96xx.tumblr.com/), [DeviantArt](https://www.deviantart.com/tc-96), [Ko-Fi](https://ko-fi.com/tckofi)), who helped recreate some textures that were missing!
 
