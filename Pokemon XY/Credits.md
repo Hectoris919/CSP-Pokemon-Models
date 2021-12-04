@@ -1,31 +1,4 @@
-### Character rigs downloaded from [themodelresource.com](https://www.themodelresource.com)
-
-----------------------------------------------------------------------------------
-
-Game: Pokémon X/Y
-
-Subject: #151 Mew
-
-Copyright: Nintendo, Game Freak, Creatures Inc.
-
-Model Ripper: Random Talking Bush
-
-Hosting Permissions: The Models Resource
-
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
-
-----------------------------------------------------------------------------------
-
-Game: Pokémon X/Y
-
-Subject: #150 Mewtwo
-
-Copyright: Nintendo, Game Freak, Creatures Inc.
-
-Model Ripper: Random Talking Bush
-
-Hosting Permissions: The Models Resource
-
-Notes: Special thanks to Ploaj for supplying the necessary files for these models!
-
-----------------------------------------------------------------------------------
+Model | Model Ripper | Copyright | Link
+--- | --- | --- | ---
+Mew | [Random Talking Bush](https://www.models-resource.com/submitter/Random+Talking+Bush/) | Nintendo, Game Freak, Creatures Inc. | [#151 Mew](https://www.models-resource.com/3ds/pokemonxy/model/8334/)
+Mewtwo | [Random Talking Bush](https://www.models-resource.com/submitter/Random+Talking+Bush/) | Nintendo, Game Freak, Creatures Inc. | [#150 Mewtwo](https://www.models-resource.com/3ds/pokemonxy/model/8822/)
