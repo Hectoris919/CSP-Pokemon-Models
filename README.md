@@ -7,7 +7,7 @@ Pokemon Pose Dolls for Clip Studio Paint
 
 Models downloaded from [TheModelResource](https://www.models-resource.com/)
 
-Model rippers listed in the [Credits](https://github.com/Hectoris919/CSP-Pokemon-Models/blob/main/Pokemon%20XY/Credits.md) file
+Links to the original models listed in the [Credits](https://github.com/Hectoris919/CSP-Pokemon-Models/blob/main/Pokemon%20XY/Credits.md) file
 
 ---
 
