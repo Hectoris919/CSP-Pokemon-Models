@@ -6,3 +6,4 @@ Lucario | [#448 Lucario](https://www.models-resource.com/3ds/pokemonxy/model/816
 Dialga | [#483 Dialga](https://www.models-resource.com/3ds/pokemonxy/model/9367/)
 Palkia | [#484 Palkia](https://www.models-resource.com/3ds/pokemonxy/model/9368/)
 Giratina | [#487 Giratina](https://www.models-resource.com/3ds/pokemonxy/model/9369/)
+Arceus | [#493 Arceus](https://www.models-resource.com/3ds/pokemonxy/model/9169/)
