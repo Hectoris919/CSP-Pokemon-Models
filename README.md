@@ -1,4 +1,4 @@
-Pokemon Models for Clip Studio Paint
+Pokemon Pose Dolls for Clip Studio Paint
 ===
 > Click on a model's file and click the Download button to download the model.
 > 
