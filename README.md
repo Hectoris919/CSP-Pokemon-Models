@@ -13,7 +13,7 @@ Links to the original models listed in the [Credits](https://github.com/Hectoris
 
 Models imported into the `csmc` (clip studio modeler character, for bipeds) and `csmo` (clip studio modeler object, for non-bipeds) format by Hectoris919
 
-I am probably the most inactive person on social media _ever_ and have nothing to show for on social media, but if you somehow still want to support me, here is my [Ko-Fi](https://ko-fi.com/thatlazyartist58126).
+I am probably the most inactive person on social media _ever_ and have nothing to show for on social media, but if you still want to support me, here is my [Ko-Fi](https://ko-fi.com/thatlazyartist58126).
  
 ### A huge thanks to TC-96 ([Tumblr](https://xxtc-96xx.tumblr.com/), [DeviantArt](https://www.deviantart.com/tc-96), [Ko-Fi](https://ko-fi.com/tckofi)) for recreating some of the textures that were missing! They are an amazing artist/animator and I highly recommend checking them out!
 
