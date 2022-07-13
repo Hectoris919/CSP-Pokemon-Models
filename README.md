@@ -16,3 +16,5 @@ Models imported into the `csmc` (clip studio modeler character, for bipeds) and 
 I am probably the most inactive person on social media _ever_ and have nothing to show for on social media, but if you somehow still want to support me, here is my [Ko-Fi](https://ko-fi.com/thatlazyartist58126).
  
 ### A huge thanks to TC-96 ([Tumblr](https://xxtc-96xx.tumblr.com/), [DeviantArt](https://www.deviantart.com/tc-96), [Ko-Fi](https://ko-fi.com/tckofi)) for recreating some of the textures that were missing! They are an amazing artist/animator and I highly recommend checking them out!
+
+### Also, if you want models of Mewtwo that are accurate to the styles in Movies 1 and 16, you can find them [here](https://github.com/Hectoris919/Movie-Accurate-Mewtwo)
